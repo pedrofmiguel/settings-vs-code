@@ -1,0 +1,59 @@
+{
+    "sync.gist": "0fc2006a3f8373d603128d5d0f132579",
+    "sync.autoDownload": true,
+    "sync.autoUpload": true,
+    "tabnine.experimentalAutoImports": true,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "workbench.colorTheme": "GitHub Dark",
+    "editor.bracketPairColorization.enabled": true,
+    "diffEditor.codeLens": true,
+    "git.mergeEditor": false,
+    "editor.guides.bracketPairs": "active",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "editor.formatOnSave": true,
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "typescriptreact"
+    ],
+    "eslint.options": {
+        "extensinons": [
+            ".ts",
+            ".js",
+            ".tsx",
+            ".jsx"
+        ]
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "explorer.confirmDelete": false,
+    "workbench.list.automaticKeyboardNavigation": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "diffEditor.maxComputationTime": 0,
+    "security.workspace.trust.untrustedFiles": "open",
+    "[html]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "[scss]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "json.schemas": [],
+    "git.confirmSync": false,
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "window.zoomLevel": 1,
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "settingsSync.ignoredSettings": [
+    
+    ]
+}
